@@ -1,4 +1,4 @@
-# 📸 This is the first professional website made for a client
+# 📸 This is my Professional Portfolio Website
 
 Welcome to **VedSnaps – Portfolio**.  
 This project is a sleek, modern, and mobile-responsive portfolio platform tailored for showcasing the creative work of my services.
